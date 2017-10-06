@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "build": {
+    "app-bundle-id": "com.example.hello",
+    "app-category-type": "public.app-category.utilities"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
