@@ -1,6 +1,5 @@
 electron = require("electron");
 var fs = require('fs');
-var ejs = require('ejs');
 var express = require("express");
 var exapp = express();
 var link = require("./link.js");
